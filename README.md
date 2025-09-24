@@ -1,1 +1,1 @@
-# LCDP-GenAIrator
+# LCDP GenAIrator
